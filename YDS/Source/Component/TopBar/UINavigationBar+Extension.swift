@@ -21,7 +21,7 @@ extension UINavigationBar {
         enum ButtonBar {
             static let spacing: CGFloat = 2
             enum Padding {
-                static let horizontal: CGFloat = 8
+                static let horizontal: CGFloat = 12
             }
         }
     }
