@@ -142,7 +142,7 @@ public enum YDSColor {
     }
 
     public static var buttonPointPressed: UIColor {
-        return color(light: .pointColor300, dark: .pointColor300)
+        return color(light: .black333, dark: .black333)
     }
 
     public static var buttonPointBG: UIColor {
