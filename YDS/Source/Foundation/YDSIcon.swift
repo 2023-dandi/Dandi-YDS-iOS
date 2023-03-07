@@ -90,6 +90,10 @@ public enum YDSIcon {
     public static var warningcircleLine: UIImage { .load(name: "ic_warningcircle_line") }
     public static var xLine: UIImage { .load(name: "ic_x_line") }
     public static var xcircleFilled: UIImage { .load(name: "ic_xcircle_filled") }
+    public static var heartLine: UIImage { .load(name: "ic_heart_line")}
+    public static var feedLine: UIImage { .load(name: "ic_feed_line")}
+    public static var feedFilled: UIImage { .load(name: "ic_feed_fill")}
+    public static var heartFilled: UIImage { .load(name: "ic_heart_filled")}
 }
 
 extension UIImage {
