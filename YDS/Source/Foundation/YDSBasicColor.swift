@@ -123,6 +123,10 @@ internal extension UIColor {
         return UIColor.load(name: "realBlack")
     }
 
+    static var black333: UIColor {
+        return UIColor.load(name: "black333")
+    }
+
     // MARK: - Gray
 
     static var gray050: UIColor {
